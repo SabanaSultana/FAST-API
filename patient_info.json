@@ -1,0 +1,43 @@
+{
+    "patients": [
+        {
+            "id": 1,
+            "name": "John Smith",
+            "age": 45,
+            "gender": "Male",
+            "email": "john.smith@email.com",
+            "phone": "+1-555-0101",
+            "date_of_birth": "1979-03-15",
+            "blood_type": "O+",
+            "conditions": ["Hypertension", "Type 2 Diabetes"],
+            "medications": ["Metformin", "Lisinopril"],
+            "last_visit": "2024-01-10"
+        },
+        {
+            "id": 2,
+            "name": "Sarah Johnson",
+            "age": 32,
+            "gender": "Female",
+            "email": "sarah.johnson@email.com",
+            "phone": "+1-555-0102",
+            "date_of_birth": "1992-07-22",
+            "blood_type": "A-",
+            "conditions": ["Asthma"],
+            "medications": ["Albuterol"],
+            "last_visit": "2024-01-08"
+        },
+        {
+            "id": 3,
+            "name": "Michael Brown",
+            "age": 58,
+            "gender": "Male",
+            "email": "michael.brown@email.com",
+            "phone": "+1-555-0103",
+            "date_of_birth": "1966-11-30",
+            "blood_type": "B+",
+            "conditions": ["Coronary Artery Disease", "High Cholesterol"],
+            "medications": ["Atorvastatin", "Aspirin"],
+            "last_visit": "2024-01-12"
+        }
+    ]
+}
