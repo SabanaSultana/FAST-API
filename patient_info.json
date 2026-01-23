@@ -9,8 +9,14 @@
             "phone": "+1-555-0101",
             "date_of_birth": "1979-03-15",
             "blood_type": "O+",
-            "conditions": ["Hypertension", "Type 2 Diabetes"],
-            "medications": ["Metformin", "Lisinopril"],
+            "conditions": [
+                "Hypertension",
+                "Type 2 Diabetes"
+            ],
+            "medications": [
+                "Metformin",
+                "Lisinopril"
+            ],
             "last_visit": "2024-01-10"
         },
         {
@@ -22,8 +28,12 @@
             "phone": "+1-555-0102",
             "date_of_birth": "1992-07-22",
             "blood_type": "A-",
-            "conditions": ["Asthma"],
-            "medications": ["Albuterol"],
+            "conditions": [
+                "Asthma"
+            ],
+            "medications": [
+                "Albuterol"
+            ],
             "last_visit": "2024-01-08"
         },
         {
@@ -35,9 +45,33 @@
             "phone": "+1-555-0103",
             "date_of_birth": "1966-11-30",
             "blood_type": "B+",
-            "conditions": ["Coronary Artery Disease", "High Cholesterol"],
-            "medications": ["Atorvastatin", "Aspirin"],
+            "conditions": [
+                "Coronary Artery Disease",
+                "High Cholesterol"
+            ],
+            "medications": [
+                "Atorvastatin",
+                "Aspirin"
+            ],
             "last_visit": "2024-01-12"
+        },
+        {
+            "id": 7,
+            "name": "string",
+            "age": 1,
+            "city": "string",
+            "gender": "male",
+            "email": "user@gmail.com",
+            "phone": "string",
+            "date_of_birth": "string",
+            "blood_type": "string",
+            "conditions": [
+                "string"
+            ],
+            "medications": [
+                "string"
+            ],
+            "last_visit": "string"
         }
     ]
 }
