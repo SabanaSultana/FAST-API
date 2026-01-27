@@ -45,5 +45,5 @@ def insert_data(patient: DataItem):
          json.dump(data, f, indent=4) 
          return {"message": "Patient added successfully"}
 
-    print("Patient data is valid.") 
+    # print("Patient data is valid.") 
     
